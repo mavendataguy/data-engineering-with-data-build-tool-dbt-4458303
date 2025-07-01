@@ -1,4 +1,4 @@
-# Data Engineering with Data Build Tool (DBT)
+# Data Engineering with Data Build Tool (DBT) - GO TO THE PARENT REPO & EXPLORE EACH BRANCH TO LEARN
 This is the repository for the LinkedIn Learning course `Data Engineering with Data Build Tool (DBT)`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
